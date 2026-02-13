@@ -61,7 +61,7 @@ Geographical analysis of sales performance to identify strong and underperformin
 - Dynamic tooltips
 - Executive-style layout
 - Cloud publishing via Power BI Service
-
+---------
 
 ## 📌 Learning Outcomes
 
