@@ -1,6 +1,6 @@
 # -FUTURE_DS_01
 
-# 📊 Sales Performance Dashboard – Power BI Project
+# 📊 Business Sales Performance Dashboard – Power BI Project
 
 ## 📌 Project Overview
 
