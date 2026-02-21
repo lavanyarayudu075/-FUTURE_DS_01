@@ -84,9 +84,9 @@ This project enhanced my skills in:
 
 ## 📷 images
 
-![Dashboard Preview](images/Screenshot 2026-02-14 003552.png)
-![Dashboard Preview](images/Screenshot 2026-02-14 003604.png)
-![Dashboard Preview](images/Screenshot 2026-02-14 003619.png)
+![Dashboard Preview](images/Screenshot_2026-02-14_003552.png)
+![Dashboard Preview](images/Screenshot_2026-02-14_003604.png)
+![Dashboard Preview](images/Screenshot_2026-02-14_003619.png)
 
 ---
 
