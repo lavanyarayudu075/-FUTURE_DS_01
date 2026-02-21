@@ -1,3 +1,4 @@
+
 # -FUTURE_DS_01
 
 # 📊 Business Sales Performance Dashboard – Power BI Project
@@ -73,3 +74,21 @@ This project enhanced my skills in:
 - Implementing time intelligence analysis
 - Publishing and sharing reports in the cloud
 
+------------
+## 🛠 Tools Used
+- Power BI Desktop
+- DAX (Data Analysis Expressions)
+- Data Visualization Best Practices
+
+---
+
+## 📷 images
+
+![Dashboard Preview](images/Screenshot 2026-02-14 003552.png)
+![Dashboard Preview](images/Screenshot 2026-02-14 003604.png)
+![Dashboard Preview](images/Screenshot 2026-02-14 003619.png)
+
+---
+
+## 👩‍💻 Author
+Lavanya Rayudu
